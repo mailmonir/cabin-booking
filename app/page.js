@@ -1,5 +1,7 @@
+import Layout from "./(pages)/layout";
+
 const Root = () => {
-  return <div></div>;
+  return <Layout>Home</Layout>;
 };
 
 export default Root;
